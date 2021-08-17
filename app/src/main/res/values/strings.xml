@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Zxing QR Scanner</string>
+    <string name="qr_reader">QR Reader</string>
 </resources>
