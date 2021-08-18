@@ -2,4 +2,5 @@
 <resources>
     <dimen name="margin_normal">16dp</dimen>
     <dimen name="size_max_image_qr">200dp</dimen>
+    <dimen name="size_max_barcode">300dp</dimen>
 </resources>

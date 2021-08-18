@@ -70,4 +70,11 @@ class MainActivity : AppCompatActivity() {
     private fun setBitmapImageView(imageView: ImageView, bitmap: Bitmap) {
         imageView.setImageBitmap(bitmap)
     }
+
+    fun onClickCustomActivityQRReader(view: View) {
+        val integrator = IntentIntegrator(this)
+        integrator.setBarcodeImageEnabled(true)
+        integrator.captureActivity = CustomBarcodeActivity::class.java
+        integrator.initiateScan()
+    }
 }

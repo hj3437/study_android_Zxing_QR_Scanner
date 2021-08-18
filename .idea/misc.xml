@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/space_android/ZxingQRScanner/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/space_android/ZxingQRScanner/app/src/main/res/layout/activity_qr_reader_custom.xml" value="0.1953125" />
+        <entry key="..\:/space_android/ZxingQRScanner/app/src/main/res/layout/custom_scanner.xml" value="0.1953125" />
       </map>
     </option>
   </component>

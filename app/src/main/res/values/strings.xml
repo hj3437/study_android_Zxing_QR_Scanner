@@ -2,4 +2,6 @@
     <string name="app_name">Zxing QR Scanner</string>
     <string name="qr_reader">QR Reader</string>
     <string name="qr_reader_custom">QR Reader Custom</string>
+    <string name="scan_qrcode">Scan QRCode</string>
+    <string name="qr_reader_custom_activity">QR Reader Custom Activity</string>
 </resources>
